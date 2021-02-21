@@ -6,3 +6,5 @@ A feladat megoldásához a Jupyter Notebookot választottam, mert bár Matlabban
 A feladattal végül több, mint fél napot töltöttem, ami a python tudásomnak tudható be. A feladat értelmezésével és a megoldás megtervezésével kb. másfél órát töltöttem. Ezt követően kisebb megszakításokkal kétszer fél napot töltöttem a kódolással.
 
 A megoldás menetét a kódban részletesen kommentáltam. Nem sikerült a számítás végére érnem, úgy gondolom az további sok időt venne igénybe, ehelyett írásban vetítettem előre a tervezett lépéseimet.
+
+A feladat megoldását lásd a Homework nevű fájlban ugyanebben a mappában.
